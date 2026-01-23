@@ -1,7 +1,3 @@
-group: str = "Universe"
-print(f"Hello {group}")
-print(f"Hello {group}")
-print(f"Hello {group}")
 name: str = "Tali berzins"
 print(name.upper())
 print(name.lower())
@@ -11,3 +7,4 @@ print(f"{name:>15}")
 print(f"{name:_^22}")
 print(f"{name:<15}")
 print(f"{name:^22}")
+print("DONE")
